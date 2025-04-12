@@ -1,17 +1,17 @@
-Задача 0.
+#### Задача 0.
 
 ![alt text](image.png)
 
-Задача 1.
+#### Задача 1.
 
 ![alt text](image-2.png)
 
-Задача 3.
+#### Задача 3.
 
 ![alt text](image-3.png)
 ![alt text](image-1.png)
 
-Задача 4.
+#### Задача 4.
 
 ```
 !/bin/bash
@@ -26,7 +26,7 @@ docker compose up -d
 
 ![alt text](image-5.png)
 
-Задача 6.
+#### Задача 6.
 Можете принять это за решение? я уже создаю виртуалки на yandex cloud через terraform
 
 ![alt text](image-6.png)
