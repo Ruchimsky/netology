@@ -27,6 +27,10 @@ docker compose up -d
 ![alt text](image-5.png)
 
 #### Задача 6.
-Можете принять это за решение? я уже создаю виртуалки на yandex cloud через terraform
+![alt text](<Снимок экрана 2025-04-19 155257.png>)
 
-![alt text](image-6.png)
+![alt text](<Снимок экрана 2025-04-19 155213.png>)
+
+#### Задача 6.1
+
+![alt text](image-7.png)
